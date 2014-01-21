@@ -1,0 +1,13 @@
+#define TOKEN_TYPENAME                        1
+#define TOKEN_COLON                           2
+#define TOKEN_SYMBOL                          3
+#define TOKEN_INT_CONSTANT                    4
+#define TOKEN_FLOAT_CONSTANT                  5
+#define TOKEN_DOUBLE_CONSTANT                 6
+#define TOKEN_STRING                          7
+#define TOKEN_LEFT_PAREN                      8
+#define TOKEN_RIGHT_PAREN                     9
+#define TOKEN_LEFT_BRACKET                   10
+#define TOKEN_RIGHT_BRACKET                  11
+#define TOKEN_DEFN                           12
+#define TOKEN_DEF                            13
