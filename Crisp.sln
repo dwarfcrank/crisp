@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crisp", "Crisp.vcxproj", "{8ACC8B98-176E-4FED-AC08-344251CE2153}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crisp", "Crisp\Crisp.vcxproj", "{8ACC8B98-176E-4FED-AC08-344251CE2153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
